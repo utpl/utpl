@@ -44,17 +44,6 @@ contenido. Cursando el Máster en Ciberseguridad en UNIR.
 
 <br>
 
-## 📊 Actividad
-
-<div align="center">
-
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=utpl&show_icons=true&hide=stars,issues&count_private=true&hide_border=true&bg_color=0D1117&title_color=F2BF42&icon_color=F2BF42&text_color=C9D1D9&include_all_commits=true" alt="Estadísticas de GitHub" />
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=utpl&layout=compact&langs_count=8&hide=html,css,scss&hide_border=true&bg_color=0D1117&title_color=F2BF42&text_color=C9D1D9" alt="Lenguajes más usados" />
-
-</div>
-
-<br>
-
 ## 🚀 Proyectos
 
 ### 🏗️ [Automatización EdiLoja](https://github.com/utpl/Atomatizacion_Ediloja)
